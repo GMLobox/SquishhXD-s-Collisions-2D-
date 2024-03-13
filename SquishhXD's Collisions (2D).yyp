@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "SquishhXD's Collisions (2D)",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/SquishhXD's Collisions/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Demo","folderPath":"folders/SquishhXD's Collisions/Demo.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/SquishhXD's Collisions/Scripts.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"SquishhXD's Collisions","folderPath":"folders/SquishhXD's Collisions.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.11.0.121",
+  },
+  "resources": [
+    {"id":{"name":"legallydistinct_Johnus","path":"sprites/legallydistinct_Johnus/legallydistinct_Johnus.yy",},},
+    {"id":{"name":"oRect","path":"objects/oRect/oRect.yy",},},
+    {"id":{"name":"scCollide","path":"scripts/scCollide/scCollide.yy",},},
+    {"id":{"name":"sTriangle","path":"sprites/sTriangle/sTriangle.yy",},},
+    {"id":{"name":"demo_player","path":"objects/demo_player/demo_player.yy",},},
+    {"id":{"name":"oTriangle","path":"objects/oTriangle/oTriangle.yy",},},
+    {"id":{"name":"demo_room","path":"rooms/demo_room/demo_room.yy",},},
+    {"id":{"name":"sSquare","path":"sprites/sSquare/sSquare.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"demo_room","path":"rooms/demo_room/demo_room.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

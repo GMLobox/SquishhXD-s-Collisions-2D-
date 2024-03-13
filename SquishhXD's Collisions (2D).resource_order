@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Demo","order":1,"path":"folders/SquishhXD's Collisions/Demo.yy",},
+    {"name":"Scripts","order":2,"path":"folders/SquishhXD's Collisions/Scripts.yy",},
+    {"name":"SquishhXD's Collisions","order":4,"path":"folders/SquishhXD's Collisions.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"legallydistinct_Johnus","order":2,"path":"sprites/legallydistinct_Johnus/legallydistinct_Johnus.yy",},
+    {"name":"sTriangle","order":1,"path":"sprites/sTriangle/sTriangle.yy",},
+    {"name":"demo_player","order":2,"path":"objects/demo_player/demo_player.yy",},
+    {"name":"oTriangle","order":1,"path":"objects/oTriangle/oTriangle.yy",},
+    {"name":"demo_room","order":3,"path":"rooms/demo_room/demo_room.yy",},
+  ],
+}
