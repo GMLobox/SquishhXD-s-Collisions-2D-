@@ -1,4 +1,3 @@
-#macro delta delta_time / 10005;
 function collide_player() {
 	//Misc
 	vsp += grav;
@@ -17,13 +16,19 @@ function collide_player() {
 		}
 	}
 	
+	/* Snapping Down Slopes */
+	if vsp >= 0 && !place_meeting(x + hsp, y + 1, oRect) && place_meeting(x + hsp, y + abs(hsp) + 1, oRect) {
+		while !place_meeting(x + hsp, y + 1, oRect)
+			y += 1;
+	}
+	
 	x += hsp;
 	
 	/*  Y / Vertical Movement, including slopes. */
 	if place_meeting(x, y + vsp, oRect) {
-		while !place_meeting(x, y + sign(vsp), oRect)
-			y += sign(vsp)
-		vsp = 0;
+			while !place_meeting(x, y + sign(vsp), oRect)
+				y += sign(vsp)
+			vsp = 0;
 	}
 	
 	y += vsp;
