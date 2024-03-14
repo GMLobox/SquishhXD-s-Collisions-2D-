@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings": [
+    {"name":"SquishhXD's Collisions","order":4,"path":"folders/SquishhXD's Collisions.yy",},
     {"name":"Demo","order":1,"path":"folders/SquishhXD's Collisions/Demo.yy",},
     {"name":"Scripts","order":2,"path":"folders/SquishhXD's Collisions/Scripts.yy",},
-    {"name":"SquishhXD's Collisions","order":4,"path":"folders/SquishhXD's Collisions.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"legallydistinct_Johnus","order":2,"path":"sprites/legallydistinct_Johnus/legallydistinct_Johnus.yy",},

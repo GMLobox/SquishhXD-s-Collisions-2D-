@@ -11,10 +11,10 @@
   },
   "defaultScriptType": 1,
   "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/SquishhXD's Collisions/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"SquishhXD's Collisions","folderPath":"folders/SquishhXD's Collisions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Demo","folderPath":"folders/SquishhXD's Collisions/Demo.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/SquishhXD's Collisions/Scripts.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"SquishhXD's Collisions","folderPath":"folders/SquishhXD's Collisions.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/SquishhXD's Collisions/Sprites.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,

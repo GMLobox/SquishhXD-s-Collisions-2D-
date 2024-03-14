@@ -1,3 +1,4 @@
+#macro delta delta_time / 10005;
 function collide_player() {
 	//Misc
 	vsp += grav;
